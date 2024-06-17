@@ -1,0 +1,33 @@
+# Flutter #
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+ios/Flutter/.last_build_id
+
+# Obfuscate secrets #
+**/secrets.*.json
+**/secrets.*.yaml
+**/secrets.*.properties
+
+# Misc #
+*.iml
+*.ipr
+*.iws
+.idea/
+*.swp
+*.swo
+.DS_Store
+*.log
+*.csv
+*.dat
+*.sql
+*.log/
+*.dat/
+*.sqlite
+*.sqlite3
+
+# IntelliJ #
+.idea
+*.iml
